@@ -1,4 +1,4 @@
-# Max Hibbards UX Portfolio
+# Max Hibbard's UX Portfolio
 
 ![Max Hibbard](/assets/Max.jpg)
 
