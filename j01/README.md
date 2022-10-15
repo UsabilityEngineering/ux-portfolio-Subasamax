@@ -17,7 +17,7 @@ I wasn’t sure at this point how big I wanted to make the image, so I experimen
 
 ![InitialPhoto](SmallSize.png)
 
-At this point, I realized I had no idea what I was doing and felt like I was ruining the picture. Thankfully photoshop seems to have a good error-prevention system with its undo button which allowed me to reset the image all the way back to where I started. At this point, I was clueless about how I could zoom in while keeping the image quality intact. I thought, the “ctrl mouse wheel” was used to move right and left, what did the “Alt mouse wheel shortcut” do? I attempted to use the shortcut and found out it was the correct way to zoom in on the picture. I’m able to zoom all the way to see pixel boxes. The zoom is centered on my mouse pointer.
+At this point, I realized I had no idea what I was doing and felt like I was ruining the picture. Thankfully photoshop seems to have a good **error-prevention** system with its undo button which allowed me to reset the image all the way back to where I started. **Error-Prevention** is  At this point, I was clueless about how I could zoom in while keeping the image quality intact. I thought, the “ctrl mouse wheel” was used to move right and left, what did the “Alt mouse wheel shortcut” do? I attempted to use the shortcut and found out it was the correct way to zoom in on the picture. I’m able to zoom all the way to see pixel boxes. The zoom is centered on my mouse pointer.
 
 ![InitialPhoto](ZoomInPixels.png)
 
@@ -51,33 +51,33 @@ I decided to make a selected area as big as the sky so i can select all the clou
 
 Unfortunately, the eraser tool erases things and leaves behind a color you have selected for what i assume is the background color. This means to get the right color to leave behind, I have to manually use the eyedrop tool to select a color i want, open the color menu, then copy the color code, then paste the color code to the background color code. 
 
-[InitialPhoto](BackgroundColor.jpg)
+![InitialPhoto](BackgroundColor.jpg)
 
 After copy and saving the color code to the background color, which is the lower color box, it looks like this. 
 
 
-[InitialPhoto](ColorTwoBoxes.jpg)
+![InitialPhoto](ColorTwoBoxes.jpg)
 
 After deciding the color I want, I started erasing everything in the marked area except for a small bit of the top blue color. I saw a tool called the gradient tool that should make one color slowly turn to another over a certain distance in the photo. So, I need to save some of the top sky color. 
 
-[InitialPhoto](MarkAreaFirstErase.jpg)
+![InitialPhoto](MarkAreaFirstErase.jpg)
 
 Next, I grabbed the top sky blue color and made sure my color selected was it. I used the gradient tool and quickly realized that I made a mistake in my color as the top color needed to be in the background color slot. 
 
 
-[InitialPhoto](GradientMessUp.jpg)
+![InitialPhoto](GradientMessUp.jpg)
 
 After fixing the color it looked alot better. 
 
-[InitialPhoto](MarkAreaAlmostFinished.jpg)
+![InitialPhoto](MarkAreaAlmostFinished.jpg)
 
 It is starting to actually look like the sky when looking at it from far away. The gradient tool is great for when you need to make a steady transformation from one color to the next. It is very **efficient** and **effective**, however the color selection makes it a bit tedious for me, which is a weakness. **Efficient** is how quick a task is and **Effective** is how successful it is in fulfilling a task. Next I want to clean up all the spots I missed near the sky line to make it more cohesive. 
 
-[InitialPhoto](Finished.png)
+![Finished](Finished.png)
 
-Overall I think I did an ok job making this picture have no clouds while also learning some basics in Photoshop. It was alot more satisfying than I expected it to. Satisfying is how good and fufilled an action gave you. Overall photoshop was efficient, and satisfying to learn. As I am not a photographer or artist, photoshop is not necessarily useful to me. Useful is how it is able to be used by the user. 
+Overall I think I did an ok job making this picture have no clouds while also learning some basics in Photoshop. It was alot more **satisfying** than I expected it to. **Satisfying** is how good and fufilled an action gave you. Overall photoshop was efficient, and **satisfying** to learn. As I am not a photographer or artist, photoshop is not necessarily **useful** to me. **Useful** is how it is able to be used by the user. 
 
-The strengths of photoshop is that it is a very effective and efficient program to edit photos. It has wonderful error prevention system in place as you can undo any mistakes using the undo tool. It is easy to learn the very basic tools in place as they show you a mini video of what the tool does when you hover the mouse over it. 
+The strengths of photoshop is that it is a very **effective** and **efficient** program to edit photos. It has wonderful **error prevention** system in place as you can undo any mistakes using the undo tool. It is easy to learn the very basic tools in place as they show you a mini video of what the tool does when you hover the mouse over it. 
 
-My main problems with photoshop is that the shortcuts to zoom in are changed to Alt-mousewheel instead of Ctrl-mousewheel. The color selection is a pain to understand.  It gave me problems trying to figure out the color system from a beginners perspective. Without understanding the color selection system the experience becomes alot more frustrating as whatever you try to do might have a different color than expected. I think one of the problems that my mental model of how it works is not matching with the actual way it works. A mental model is how any user would expect something to work. I think it would help if the zoom in shortcut was made to mimic the mental model of most people as the industry conventions suggest having the zoom shortcut at Ctrl-mouswheel instead of Alt-mousewheel. This would lower the amount of people who will have different mental models from how it is supossed to work. The eyedroper tool is very helpful but a bit confusing to use. A suggestion for the colors would be to have the eyedropper tool work on both the front color and the back color. 
+My main problems with photoshop is that the shortcuts to zoom in are changed to Alt-mousewheel instead of Ctrl-mousewheel. The color selection is a pain to understand.  It gave me problems trying to figure out the color system from a beginners perspective. Without understanding the color selection system the experience becomes alot more frustrating as whatever you try to do might have a different color than expected. I think one of the problems is that my **mental model** of how it works is not matching with the actual way it works. A **mental model** is how any user would expect something to work. I think it would help if the zoom in shortcut was made to mimic the **mental model** of most people as the **industry conventions** suggest having the zoom shortcut at Ctrl-mouswheel instead of Alt-mousewheel. This would lower the amount of people who will have different **mental models** from how it is supossed to work. The eyedroper tool is very helpful but a bit confusing to use. A suggestion for the colors would be to have the eyedropper tool work on both the front color and the back color. 
 
