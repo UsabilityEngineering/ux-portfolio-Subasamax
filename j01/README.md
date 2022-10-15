@@ -26,7 +26,7 @@ At this point, I realized I had no idea what I was doing. Thankfully photoshop s
 ![InitialPhoto](ZoomInPixels.png)
 
 
-Now that I have some basic movement handled, I want to see what I can do with the picture. I looked at the side of the screen and noticed all these symbols and thought that those were probably the tools to do most of the things in photoshop. 
+Now that I have some basic movement handled, I want to see what I can do with the picture. I looked at the side of the screen and noticed all these symbols and thought that those were probably the tools to do most things in photoshop. 
 
 ![InitialPhoto](EraseTool.jpg)
 
