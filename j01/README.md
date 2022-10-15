@@ -17,7 +17,7 @@ I wasn’t sure at this point how big I wanted to make the image, so I experimen
 
 ![InitialPhoto](SmallSize.png)
 
-At this point, I realized I had no idea what I was doing and felt like I was ruining the picture. Thankfully photoshop seems to have a good **error-prevention** system with its undo button which allowed me to reset the image all the way back to where I started. **Error-Prevention** is  At this point, I was clueless about how I could zoom in while keeping the image quality intact. I thought, the “ctrl mouse wheel” was used to move right and left, what did the “Alt mouse wheel shortcut” do? I attempted to use the shortcut and found out it was the correct way to zoom in on the picture. I’m able to zoom all the way to see pixel boxes. The zoom is centered on my mouse pointer.
+At this point, I realized I had no idea what I was doing and felt like I was ruining the picture. Thankfully photoshop seems to have a good **error-prevention** system with its undo button which allowed me to reset the image all the way back to where I started. **Error-Prevention** is how well the system prevents errors from affecting the users and if an accident happens, supporting the user to undo their mistakes. At this point, I was clueless about how I could zoom in while keeping the image quality intact. I thought, the “ctrl mouse wheel” was used to move right and left, what did the “Alt mouse wheel shortcut” do? I attempted to use the shortcut and found out it was the correct way to zoom in on the picture. I’m able to zoom all the way to see pixel boxes. The zoom is centered on my mouse pointer.
 
 ![InitialPhoto](ZoomInPixels.png)
 
