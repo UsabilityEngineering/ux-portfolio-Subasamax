@@ -60,6 +60,8 @@ After copy and saving the color code to the background color, which is the lower
 
 After deciding the color I want, I started erasing everything in the marked area except for a small bit of the top blue color. I saw a tool called the gradient tool that should make one color slowly turn to another over a certain distance in the photo. So, I need to save some of the top sky color. 
 
+![InitialPhoto](GradientTool.jpg)
+
 ![InitialPhoto](MarkAreaFirstErase.jpg)
 
 Next, I grabbed the top sky blue color and made sure my color selected was it. I used the gradient tool and quickly realized that I made a mistake in my color as the top color needed to be in the background color slot. 
