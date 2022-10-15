@@ -10,4 +10,4 @@ Hi I am Max Hibbard and I am a Computer Science Major. I want to become a progra
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[A Beginner's Experience With Photoshop](j01/)
