@@ -11,3 +11,4 @@ Hi I am Max Hibbard and I am a Computer Science Major. I want to become a progra
 ## UX Journal
 
 [A Beginner's Experience With Photoshop](j01/)
+[A Beginner's Experience With Adobe Illustrator](j02/)
