@@ -5,7 +5,7 @@ By Max Hibbard
 Journal Entry: 12/11/2022
 
 
-I decided to get on Adobe Illustrator and see if I can make some art. My main goal with Adobe Illustrator at the moment is to learn how to use the software in order to create some art. I want to see how **Learnable** or how easy it is to use adobe illustrator is. When I start with Adobe Illustrator, I start with nothing. 
+I decided to get on Adobe Illustrator and see if I can make some art. My main goal with Adobe Illustrator at the moment is to learn how to use the software in order to create some art. I want to see how **learnable** or how easy it is to use adobe illustrator is. When I start with Adobe Illustrator, I start with nothing. 
 
 ![InitialPhoto](Assets/Start.jpg)
 
